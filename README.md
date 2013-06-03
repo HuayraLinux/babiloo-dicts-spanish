@@ -1,4 +1,4 @@
-babiloo-dics-spanish
+babiloo-dicts-spanish
 ====================
 
 Diccionarios en español para Babiloo
