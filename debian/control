@@ -1,0 +1,20 @@
+Source: babiloo-dicts-spanish
+Section: localization
+Priority: extra
+Maintainer: Fernando Toledo <ragnarok@docksud.com.ar>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: https://code.google.com/p/babiloo/
+Vcs-Git: git://github.com/HuayraLinux/babiloo-dicts-spanish.git
+Vcs-Browser: https://github.com/HuayraLinux/babiloo-dicts-spanish
+
+Package: babiloo-dicts-spanish
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, babiloo (>= 2.0.11)
+Description: Diccionarios en español para Babiloo
+ Este paquete contiene una serie de diccionarios para utilizar con
+ Babiloo:
+  * Inglés -> Español
+  * Español -> Inglés
+  * Definiciones (español)
+  * Sinónimos y antónimos (español)
