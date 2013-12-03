@@ -9,7 +9,7 @@ Vcs-Git: git://github.com/HuayraLinux/babiloo-dicts-spanish.git
 Vcs-Browser: https://github.com/HuayraLinux/babiloo-dicts-spanish
 
 Package: babiloo-dicts-spanish
-Architecture: any
+Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}, babiloo (>= 2.0.11)
 Description: Diccionarios en español para Babiloo
  Este paquete contiene una serie de diccionarios para utilizar con
